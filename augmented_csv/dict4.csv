@@ -1,0 +1,5 @@
+filename,width,height,objects
+aug_0_0.jpg,448,448,"[{'name': 'coin_1', 'coordinates': [84, 39]}, {'name': 'coin_2', 'coordinates': [13, 166]}, {'name': 'coin_3', 'coordinates': [312, 111]}, {'name': 'coin_4', 'coordinates': [338, 216]}]"
+aug_1_0.jpg,448,448,"[{'name': 'coin_1', 'coordinates': [94, 44]}, {'name': 'coin_2', 'coordinates': [14, 187]}, {'name': 'coin_3', 'coordinates': [351, 125]}, {'name': 'coin_4', 'coordinates': [380, 244]}]"
+aug_2_0.jpg,448,448,"[{'name': 'coin_1', 'coordinates': [42, 80]}, {'name': 'coin_2', 'coordinates': [19, 224]}, {'name': 'coin_3', 'coordinates': [281, 70]}, {'name': 'coin_4', 'coordinates': [341, 160]}]"
+aug_3_0.jpg,448,448,"[{'name': 'coin_1', 'coordinates': [47, 90]}, {'name': 'coin_2', 'coordinates': [21, 252]}, {'name': 'coin_3', 'coordinates': [316, 79]}, {'name': 'coin_4', 'coordinates': [384, 180]}]"
